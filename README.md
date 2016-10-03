@@ -1,2 +1,2 @@
 # rpl-project
-Berisi Tugas Besar Website Majelis Ta'lim
+Berisi file-file tugas praktikum RPL Lanjut
